@@ -1,12 +1,10 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Sharvik Sutar! 👋
 
-I'm a passionate **[Your Profession/Title]** with a love for **[Your Interests, e.g., building web applications, data science, open-source]**. I'm currently focused on learning **[A specific technology or skill you are learning]**.
+I'm a passionate FullStack Developer with a love for designing dynamic and fluid applications. I'm currently focused on learning MERN Stack.
 
-- 🔭 I’m currently working on **[Project Name or a brief description]**.
-- 🌱 I’m currently learning **[New language, framework, or skill]**.
-- 👯 I’m looking to collaborate on **[Type of projects you'd like to work on]**.
-- 💬 Ask me about **[Topics you're knowledgeable in, e.g., JavaScript, Python, CSS]**.
-- 📫 How to reach me: **[Your Email Address or another contact method]**.
+- 👯 I’m looking to collaborate on Web Application & App Development.
+- 💬 Ask me about Computers and Games.
+- 📫 How to reach me: sharviksutar@gmail.com.
 
 ---
 
@@ -25,10 +23,15 @@ I'm a passionate **[Your Profession/Title]** with a love for **[Your Interests, 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 **Databases:**
-- [Add your database badges here]
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Platforms:**
-- [Add your tools and platforms badges here]
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
