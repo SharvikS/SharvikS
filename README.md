@@ -1,9 +1,9 @@
 # Hi, I'm Sharvik Sutar! 👋
 
-I'm a passionate FullStack Developer with a love for designing dynamic and fluid applications. I'm currently focused on learning MERN Stack.
+I'm a passionate AI/ML Developer with a love for designing powerful and fluid applications. I'm currently focused on learning TensorFlow.
 
-- 👯 I’m looking to collaborate on Web Applications & App Development projects.
-- 💬 Ask me about Computers and Games.
+- 👯 I’m looking to collaborate on AI/ML Applications & App Development projects.
+- 💬 Ask me about AI and Games.
 - 📫 How to reach me: sharviksutar@gmail.com.
 
 ---
