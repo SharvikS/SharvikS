@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sharvik%20Sutar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Developer%20%7C%20Full-Stack%20%7C%20Game%20Enthusiast&descAlignY=52&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent+applications+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+NLP;From+data+to+decisions+%E2%9A%A1)](https://github.com/sharviksutar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent+applications+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+NLP;From+data+to+decisions+%E2%9A%A1)](https://github.com/SharvikS)
 
 </div>
 
@@ -20,11 +20,6 @@ sharvik = {
     "contact":    "sharviksutar@gmail.com",
 }
 ```
-
-- Currently deepening expertise in **TensorFlow** and neural network architectures
-- Exploring the intersection of **AI and game development**
-- Open to collaborating on **AI/ML Applications** and **Full-Stack** projects
-- All my projects target **real-world, production-grade** quality
 
 ---
 
@@ -66,14 +61,14 @@ sharvik = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharviksutar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharviksutar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SharvikS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharvikS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sharviksutar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SharvikS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -81,11 +76,15 @@ sharvik = {
 
 ## What I'm Working On
 
+<div align="center">
+
 | Project | Stack | Status |
 |---------|-------|--------|
 | Multi-Agent CI Intelligence System | Python, LangChain, Free-tier APIs | 🔨 Active |
 | Computer Vision Portfolio App | TensorFlow, OpenCV, React | 🔨 Active |
 | Game AI Experiments | Python, PyTorch | 📋 Planned |
+
+</div>
 
 ---
 
