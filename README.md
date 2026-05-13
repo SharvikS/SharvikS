@@ -10,16 +10,27 @@
 
 ## About Me
 
-```python
-sharvik = {
-    "role":       "AI/ML Developer & Full-Stack Engineer",
-    "focus":      ["Deep Learning", "Computer Vision", "NLP", "App Development"],
-    "learning":   ["TensorFlow", "PyTorch", "Transformer Architectures"],
-    "building":   "Production-ready ML projects for my 2026 portfolio",
-    "interests":  ["AI Research", "Game AI", "Generative Models"],
-    "contact":    "sharviksutar@gmail.com",
-}
-```
+<div align="center">
+
+### AI/ML Developer &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; Game Enthusiast
+
+> *"Turning raw data into intelligent decisions — one model at a time."*
+
+<br>
+
+🎯 &nbsp; Building **production-ready ML projects** for my 2026 portfolio
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🔥 &nbsp; Mastering **TensorFlow** & Transformer Architectures
+
+🧠 &nbsp; Deep focus on **Deep Learning · Computer Vision · NLP**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🎮 &nbsp; Passionate about **AI × Game Development**
+
+⚡ &nbsp; Full-stack capable: from **model training** to **deployed app**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🤝 &nbsp; Open to **AI/ML** & **App Development** collabs
+
+</div>
 
 ---
 
@@ -61,14 +72,11 @@ sharvik = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SharvikS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharvikS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SharvikS&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/SharvikS)
 
-</div>
+<br>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SharvikS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharvikS&theme=tokyo-night&hide_border=true&area=true)](https://github.com/SharvikS)
 
 </div>
 
