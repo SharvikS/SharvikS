@@ -31,7 +31,7 @@
 🤝 &nbsp; Open to **AI/ML** & **App Development** collabs
 
 </div>
-
+      
 ---
 
 ## Tech Stack
