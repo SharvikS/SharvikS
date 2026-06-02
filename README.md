@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent+applications+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+NLP;From+data+to+decisions+%E2%9A%A1)](https://github.com/SharvikS)
 
 </div>
-
+   
 ---
 
 ## About Me
