@@ -28,7 +28,7 @@
 
 ⚡ &nbsp; Full-stack capable: from **model training** to **deployed app**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🤝 &nbsp; Open to **AI/ML** & **App Development** collabs
+🤝 &nbsp; Open to **AI/ML** & **App Development** collabs     
 
 </div>
       
