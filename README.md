@@ -10,7 +10,7 @@
     
 ## About Me 
    
-<div align="center">   
+<div align="center">      
   
 ### AI/ML Developer &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; Game Enthusiast    
  
