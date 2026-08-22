@@ -18,7 +18,7 @@
    
 <br>     
    
-🎯 &nbsp; Building **production-ready ML projects** for my 2026 portfolio
+🎯 &nbsp; Building **production-ready ML projects** for my 2026 portfolio        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 🔥 &nbsp; Mastering **TensorFlow** & Transformer Architectures
 
